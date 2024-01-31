@@ -9,6 +9,9 @@ export default function Navigation() {
           <div>
             <Link href="/week-3">Week 3 Assignment</Link>
           </div>
+          <div>
+            <Link href="/week-4">Week 4 Assignment</Link>
+          </div>
         </div>
     );
-} 
+}
