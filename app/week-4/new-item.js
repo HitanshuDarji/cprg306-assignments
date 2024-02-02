@@ -66,7 +66,7 @@ const NewItem = () => {
                 type="submit"
                 className="mt-8 font-bold bg-green-200 rounded-md text-green-950 pl-1 pr-1 pt-1.5 pb-1.5 hover:bg-green-300"
                 >
-                    Submit
+                    Add
                 </button>
             </form>
     );
