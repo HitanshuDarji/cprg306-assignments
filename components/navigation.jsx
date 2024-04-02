@@ -24,6 +24,9 @@ export default function Navigation() {
           <div>
             <Link href="/week-8">Week 8 Assignment</Link>
           </div>
+          <div>
+            <Link href="/week-10">Week 10 Assignment</Link>
+          </div>
         </div>
     );
 }
